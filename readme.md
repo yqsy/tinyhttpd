@@ -16,7 +16,7 @@
 # 2. 使用说明
 
 ```bash
- yum install perl-CGI -y
+yum install perl-CGI -y
 chmod +x ./htdocs/*.cgi
 make
 ./httpd
